@@ -1,9 +1,15 @@
 中文化:
+
 seetings->右上
+
 User interface->左側
+
 Localization->中間上面->None改zh_Hant繁體中文 s那個是簡體
+
 Quicksettings list ->輸入1.sd_vae 2.CLIP_stop_at_last_layers 
+
 點Apply settings->再點Reload UI 
+
 ok
 
 教學影片:
